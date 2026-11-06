@@ -1,0 +1,15 @@
+# Yes/No Audio Classification
+
+Digital Speech Processing - Task 1
+
+This project uses the YESNO dataset to classify spoken Yes and No words.
+
+Four machine learning models were tested:
+- Support Vector Machine (SVM)
+- Neural Network (MLP)
+- Random Forest
+- K-Nearest Neighbors (KNN)
+
+Audio features were extracted using MFCCs in Python and Google Colab.
+
+The project includes the classification code, experimental results, and report.
